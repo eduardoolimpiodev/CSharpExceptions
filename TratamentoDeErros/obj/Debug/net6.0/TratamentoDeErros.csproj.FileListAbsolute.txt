@@ -1,0 +1,15 @@
+C:\Balta.io\Exceptions\TratamentoDeErros\bin\Debug\net6.0\TratamentoDeErros.exe
+C:\Balta.io\Exceptions\TratamentoDeErros\bin\Debug\net6.0\TratamentoDeErros.deps.json
+C:\Balta.io\Exceptions\TratamentoDeErros\bin\Debug\net6.0\TratamentoDeErros.runtimeconfig.json
+C:\Balta.io\Exceptions\TratamentoDeErros\bin\Debug\net6.0\TratamentoDeErros.dll
+C:\Balta.io\Exceptions\TratamentoDeErros\bin\Debug\net6.0\TratamentoDeErros.pdb
+C:\Balta.io\Exceptions\TratamentoDeErros\obj\Debug\net6.0\TratamentoDeErros.csproj.AssemblyReference.cache
+C:\Balta.io\Exceptions\TratamentoDeErros\obj\Debug\net6.0\TratamentoDeErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta.io\Exceptions\TratamentoDeErros\obj\Debug\net6.0\TratamentoDeErros.AssemblyInfoInputs.cache
+C:\Balta.io\Exceptions\TratamentoDeErros\obj\Debug\net6.0\TratamentoDeErros.AssemblyInfo.cs
+C:\Balta.io\Exceptions\TratamentoDeErros\obj\Debug\net6.0\TratamentoDeErros.csproj.CoreCompileInputs.cache
+C:\Balta.io\Exceptions\TratamentoDeErros\obj\Debug\net6.0\TratamentoDeErros.dll
+C:\Balta.io\Exceptions\TratamentoDeErros\obj\Debug\net6.0\refint\TratamentoDeErros.dll
+C:\Balta.io\Exceptions\TratamentoDeErros\obj\Debug\net6.0\TratamentoDeErros.pdb
+C:\Balta.io\Exceptions\TratamentoDeErros\obj\Debug\net6.0\TratamentoDeErros.genruntimeconfig.cache
+C:\Balta.io\Exceptions\TratamentoDeErros\obj\Debug\net6.0\ref\TratamentoDeErros.dll
